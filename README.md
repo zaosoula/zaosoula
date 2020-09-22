@@ -2,7 +2,7 @@
 <h3 align="center">A passionate & student developer from France</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaosoula&show_icons=true&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaosoula&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
 </p>
 
 
