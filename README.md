@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zao</h1>
 <h3 align="center">A passionate & student developer from France</h3>
 <p align="center"> 
-<a href="https://linkedin.com/in/zaosoula" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zaosoula" height="30" width="30" /></a>
-<a href="https://instagram.com/zaosoula" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zaosoula" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/zaosoula" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zaosoula" height="25" width="25" /></a>
+<a href="https://instagram.com/zaosoula" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zaosoula" height="25" width="25" /></a>
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaosoula&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
