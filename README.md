@@ -11,7 +11,7 @@
 
 - 👨‍🎓 I’m a student at [Toulouse Ynov Campus](https://www.ynov.com)
 
-- 📖 I’m currently learning **Vue.js, AngularJS**
+- 📖 I’m currently learning **Vue.js, Angular**
 
 - 🎙️ I’m currently working on a record label: [AMBT Musica](https://ambitiosus.group)
 
