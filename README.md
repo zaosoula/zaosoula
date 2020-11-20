@@ -11,9 +11,11 @@
 
 - 👨‍🎓 I’m a student at [Toulouse Ynov Campus](https://www.ynov.com)
 
+- 👨‍🏫 I’m currently teaching **Go, NodeJS/Javascript**
+
 - 📖 I’m currently learning **Vue.js 3, Angular and GraphQL**
 
-- 🎙️ I’m currently working on a record label: [AMBT Musica](https://ambitiosus.group)
+<!-- - 🎙️ I’m currently working on a record label: [AMBT Musica](https://ambitiosus.group)-->
 
 - 👨‍💻 All of my projects are available at [https://github.com/zaosoula?tab=repositories](https://github.com/zaosoula?tab=repositories)
 
