@@ -11,9 +11,9 @@
 
 - 👨‍🎓 I’m a student at [Toulouse Ynov Campus](https://www.ynov.com)
 
-- 👨‍🏫 I’m currently teaching **Go, NodeJS/Javascript**
+- 👨‍🏫 I’m currently teaching **NodeJS/Javascript, Vue 2**
 
-- 📖 I’m currently learning **Vue.js 3, Angular and GraphQL**
+- 📖 I’m currently learning **React & Vue 3**
 
 <!-- - 🎙️ I’m currently working on a record label: [AMBT Musica](https://ambitiosus.group)-->
 
