@@ -14,7 +14,7 @@
 
 - 👨‍🏫 I’m currently teaching **NodeJS, VueJS, TypeScript**
 
-<!-- - 📖 I’m currently learning **Vue 3** -->
+- 📖 I’m currently learning **React JS**
 
 <!-- - 🎙️ I’m currently working on a record label: [AMBT Musica](https://ambitiosus.group)-->
 
