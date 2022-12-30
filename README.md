@@ -3,9 +3,13 @@
 <p align="center"> 
 <a href="https://linkedin.com/in/zaosoula" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zaosoula" height="25" width="25" /></a>
 <a href="https://instagram.com/zaosoula" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zaosoula" height="25" width="25" /></a>
+<a href="https://twitter.com/zaosoula" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zaosoula" height="25" width="25" /></a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaosoula&show_icons=true&include_all_commits=true&count_private=false&hide_title=true&bg_color=30,e96443,904e95&icon_color=fff&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaosoula&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&icon_color=fff&title_color=fff&text_color=fff" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zaosoula&theme=dark" />
 </p>
 
 - 💼 I'm working at [Masteos](https://masteos.com) as a Software Engineer - [See open positions](https://cooptation.hellotrusty.io/ti7cauaotu) 
@@ -44,9 +48,4 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 </p>
 
-<!--<p  align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaosoula" />
-</p>-->
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=zaosoula" alt="zaosoula" /> </p>
-
