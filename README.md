@@ -6,10 +6,20 @@
 <a href="https://twitter.com/zaosoula" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zaosoula" height="25" width="25" /></a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaosoula&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&icon_color=fff&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zaosoula&hide_border=true&border_radius=0&mode=weekly" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zaosoula&theme=dark" />
+  <picture align="center">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=zaosoula&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=000&title_color=000&text_color=000&hide=stars&border_radius=0&hide_border=true&text_bold=false&ring_color=FB8C05&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=zaosoula&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=000&title_color=000&text_color=000&hide=stars&border_radius=0&hide_border=true&text_bold=false&ring_color=FB8C05"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=zaosoula&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=000&title_color=000&text_color=000&hide=stars&border_radius=0&hide_border=true&text_bold=false&ring_color=FB8C05" align="center" />
+  </picture>
 </p>
 
 - 💼 I'm working at [Masteos](https://masteos.com) as a Software Engineer - [See open positions](https://cooptation.hellotrusty.io/ti7cauaotu) 
