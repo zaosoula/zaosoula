@@ -22,13 +22,11 @@
   </picture>
 </p>
 
-- 💼 I'm working at [Masteos](https://masteos.com) as a Software Engineer - [See open positions](https://cooptation.hellotrusty.io/ti7cauaotu) 
-
-- 👨‍🎓 I’m a student at [Toulouse Ynov Campus](https://www.ynov.com)
+- 💼 I'm working at [EzyoStudio](https://ezyostudio.com) as a Software Engineer
 
 - 👨‍🏫 I’m currently teaching **NodeJS, VueJS, TypeScript**
 
-- 📖 I’m currently learning **React JS**
+<!-- - 📖 I’m currently learning **React JS** -->
 
 <!-- - 🎙️ I’m currently working on a record label: [AMBT Musica](https://ambitiosus.group)-->
 
